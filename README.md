@@ -1,4 +1,5 @@
 # streaming-04-multiple-consumers
+## Chelsea Brammer 
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
@@ -58,3 +59,5 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+
+!Alt Text .C:\Users\cbram\OneDrive\Documents\CSIS 44671 Streaming Data\Project 4\project\project screenshot.png
